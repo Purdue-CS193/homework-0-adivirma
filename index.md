@@ -14,14 +14,13 @@ Syntax highlighted code block
 # Aditya Virmani Website
 ## Header 2
 ### Header 3
+ - Favortie things about CS 19300
+- funny lecutres
+- Fun with firends in class
+- Good learning experience wiht github
+- Coding
+- Using Terminal
 
-
-1. Favortie things about CS 19300
-2. funny lecutres
-3. Fun with firends in class
-4. Good learning experience wiht github
-5. Coding
-6. Using Terminal
 
 **Bold** and _Italic_ and `Code` text
 
